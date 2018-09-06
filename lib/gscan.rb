@@ -1,2 +1,1 @@
-require "gscan/version"
-
+require_relative 'gscan/module'
